@@ -20,7 +20,7 @@ I’m someone who doesn’t just learn tech — I build with it.
 ---
 
 ## 🌐 Portfolio  
-👉 https://ameer-portfolio5511.netify.app/
+👉 https://ameermuhammed.netlify.app
 
 ---
 
