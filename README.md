@@ -15,7 +15,7 @@ I’m someone who doesn’t just learn tech — I build with it.
 - 🤖 Built projects using **NLP, ML, and real-world datasets**
 - ☁️ Exploring **Cloud (Azure) + scalable backend systems**
 - 🤝 Proven leadership as **Class Representative & Event Anchor**
-- 🎯 Currently focused on **DSA + placement preparation**
+
 
 ---
 
@@ -97,7 +97,7 @@ Git • CI/CD • Azure (Learning)
 
 - LinkedIn: https://www.linkedin.com/in/ameer-muhammed55/  
 - Email: ameermuhammed837@gmail.com  
-
+- x : https://x.com/AmeerMu44376759
 ---
 
 ⭐ *Always building, always learning.*
