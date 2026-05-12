@@ -1,8 +1,11 @@
 # Hi, I'm Ameer Muhammed 👋
+Computer Science Engineering graduate from Chandigarh University building AI systems that go beyond prototypes. I work on backend APIs, RAG pipelines, SaaS platforms, vector search, and production-ready AI applications designed to scale and perform.
 
-🚀 A Computer Science Engineering grad from Chandigarh University (2025)  
-💡 Focused on building real-world, scalable applications using AI + Full Stack  
-📍 India  
+Beyond engineering, I’ve led 70+ students, hosted events for 500+ people, and learned that strong systems start with clear thinking.
+
+I build. I ship. I improve.
+
+📍 Banglore, India  
 
 ---
 
